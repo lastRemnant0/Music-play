@@ -1,2 +1,2 @@
 # Music-play
-Trying to make a web to play drums/piano
+A Virual Drum/Piano for practicing.
